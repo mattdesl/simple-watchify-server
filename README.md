@@ -2,9 +2,9 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-This package is experimental and subject to change.
+#### deprecated
 
-It is mainly used internally to share similar code between different projects: `budo`, `hihat` and `chromeo`.
+Deprecated. See [watchify-server](https://www.npmjs.com/package/watchify-server).
 
 ## Usage
 
