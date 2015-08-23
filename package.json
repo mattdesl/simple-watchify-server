@@ -1,6 +1,6 @@
 {
   "name": "simple-watchify-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple dev server for watchify (experimental)",
   "main": "index.js",
   "license": "MIT",
